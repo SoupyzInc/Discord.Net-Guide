@@ -7,4 +7,4 @@ An amateur tutorial to help my friends get into writing discord bots with [Disco
   * [Creating A Bot](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Getting-Started#Creating-A-Bot)
 
 ## Support and Feedback
-If you encounter any issues or have feedback, please use the issue tracker.
+I am not a programming or tutorial-writing expert. If you encounter any issues or have feedback, send them to the issue tracker.
