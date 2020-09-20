@@ -2,6 +2,7 @@
 An amateur tutorial to help my friends get into writing discord bots with [Discord.Net](https://github.com/discord-net/Discord.Net). Maybe it could help some other people too?
 
 ## Table of Contents
+### [Home](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Home)
 ### Beginner
 - [Getting Started](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Getting-Started)
   * [Installation](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Getting-Started#Installation)
