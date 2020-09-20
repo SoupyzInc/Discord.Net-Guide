@@ -14,4 +14,4 @@ An amateur tutorial to help my friends get into writing discord bots with [Disco
   * [The Hard Way](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Raspberry-Pi-Hosting#the-hard-way)
 
 ## Support and Feedback
-I am not a programming or tutorial-writing expert. If you encounter any issues or have feedback, send them to the issue tracker.
+I am not a programming or tutorial-writing expert. If you encounter any issues or have feedback, please send them to the issue tracker.
