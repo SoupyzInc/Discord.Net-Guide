@@ -11,6 +11,3 @@ An amateur tutorial to help my friends write a bot with [Discord.Net](https://gi
 - [Hosting on a Raspberry Pi](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Raspberry-Pi-Hosting)
   * [The Easy Way](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Raspberry-Pi-Hosting#The-Easy-Way)
   * [The Hard Way](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Raspberry-Pi-Hosting#the-hard-way)
-
-## Support and Feedback
-I am not a programming or tutorial-writing expert. If you encounter any issues or have feedback, please send them to the issue tracker.
