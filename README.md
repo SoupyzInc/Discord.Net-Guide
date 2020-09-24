@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/756953114065633321/758772166081773588/Title_Card.png" alt="alt text" height="200">
+<img src="https://cdn.discordapp.com/attachments/756953114065633321/758772166081773588/Title_Card.png" alt="alt text" height="100">
 </p>
 
 <h3 align="center">Discord.Net Guide</h3>
