@@ -5,7 +5,7 @@
 <h3 align="center">Discord.Net Guide</h3>
 
 <p align="center">
-  A guide to writing a bot using [Discord.Net](https://github.com/discord-net/Discord.Net).
+  A guide to writing a bot using <a href="https://github.com/discord-net/Discord.Net">Discord.Net</a>.
 </p>
 
 ## Table of Contents
