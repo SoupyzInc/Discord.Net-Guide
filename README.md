@@ -6,7 +6,7 @@ An amateur tutorial to help my friends write a bot with [Discord.Net](https://gi
 - [Foundation](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation)
   * [Installation](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#Installation)
   * [Creating A Bot](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#Creating-A-Bot)
-  * [Start Up](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Start-Up)
+  * [Start Up File](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Start-Up-File)
   * [Creating a Command](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Creating-a-Command)
 - [Hosting on a Raspberry Pi](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Raspberry-Pi-Hosting)
   * [The Easy Way](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Raspberry-Pi-Hosting#The-Easy-Way)
