@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/SoupyzInc/Discord.Net-Guide/blob/master/ReadMe/Title%20Card%202.png" alt="alt text" height="120">
+<img src="https://github.com/SoupyzInc/Discord.Net-Guide/blob/master/ReadMe/Title%20Card.png" alt="alt text" height="120">
 </p>
 
 <h3 align="center">Discord.Net Guide</h3>
