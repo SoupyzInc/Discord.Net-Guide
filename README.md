@@ -14,7 +14,7 @@
   * [Installation](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#Installation)
   * [Creating A Bot](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#Creating-A-Bot)
   * [Start Up File](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Start-Up-File)
-  * [Creating a Command](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Creating-a-Command)
+  * [Hello World Command](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Hello-World-Command)
 - [Bot Hosting](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Bot-Hosting)
   * [Linux Executable](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Bot-Hosting#linux-executable)
   * [Windows Executable](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Bot-Hosting#windows-executable)
@@ -31,7 +31,7 @@
 
 [Start Up File](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Start-Up-File)
 
-[Creating a Command](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Creating-A-Command)
+[Hello World Command](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Hello-World-Command)
 
 ## [Moderation Bot](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Moderation-Bot)
 
