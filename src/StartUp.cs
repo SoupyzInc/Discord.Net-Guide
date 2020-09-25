@@ -1,20 +1,22 @@
-﻿//System
+//System
 using System;
 using System.Reflection;
 using System.Threading;
 using System.Threading.Tasks;
 
-//Discod.NET
+//Discord.Net
 using Discord;
 using Discord.Commands;
 using Discord.WebSocket;
 
 public class StartUp
 {
+    //Declare discards
     private static DiscordSocketClient _client;
     private static CommandService _commands;
     private static readonly IServiceProvider _services;
 
+    //Method to handle error messages.
     private static Task Log(LogMessage message)
     {
         switch (message.Severity)
@@ -46,6 +48,7 @@ public class StartUp
         return Task.CompletedTask;
     }
 
+    //Main Method
     private static async Task Main()
     {
         _client = new DiscordSocketClient(new DiscordSocketConfig
@@ -96,6 +99,7 @@ public class StartUp
         await Task.Delay(Timeout.Infinite);
     }
 
+    //Install Command Async
     private static async Task InitCommands()
     {
         // Either search the program and add all Module classes that can be found.
@@ -111,13 +115,14 @@ public class StartUp
         _client.MessageReceived += HandleCommandAsync;
     }
 
+    //
     private static async Task HandleCommandAsync(SocketMessage arg)
     {
         // Bail out if it's a System Message.
         var msg = arg as SocketUserMessage;
         if (msg == null) return;
 
-        // We don't want the bot to respond to itself or other bots.
+        // Bail out if it's a bot message.
         if (msg.Author.Id == _client.CurrentUser.Id || msg.Author.IsBot) return;
 
         // Create a number to track where the prefix ends and the command begins
