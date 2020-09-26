@@ -9,7 +9,6 @@
 </p>
 
 ## Table of Contents
-- [Home](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Home)
 - [Foundation](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation)
   * [Installation](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#installation)
   * [Creating A Bot](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#creating-a-bot)
