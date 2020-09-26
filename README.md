@@ -11,36 +11,11 @@
 ## Table of Contents
 - [Home](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Home)
 - [Foundation](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation)
-  * [Installation](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#Installation)
-  * [Creating A Bot](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#Creating-A-Bot)
-  * [Start Up File](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Start-Up-File)
-  * [Hello World Command](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Hello-World-Command)
+  * [Installation](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#installation)
+  * [Creating A Bot](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#creating-a-bot)
+  * [Start Up File](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#start-up-file)
+  * [Hello World Command](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Foundation#hello-world)
 - [Bot Hosting](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Bot-Hosting)
   * [Linux Executable](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Bot-Hosting#linux-executable)
   * [Windows Executable](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Bot-Hosting#windows-executable)
   * [Raspberry Pi SSH](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Bot-Hosting#raspberry-pi-ssh)
-
-<!--
-## [Home](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Home)
-
-## [Foundation](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation)
-
-[Installation](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#installation)
-
-[Creating A Bot](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Foundation#creating-a-bot)
-
-[Start Up File](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Start-Up-File)
-
-[Hello World Command](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Hello-World-Command)
-
-## [Moderation Bot](https://github.com/SoupyzInc/Discord.NET-Guide/wiki/Moderation-Bot)
-
-## [Bot Hosting](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Bot-Hosting)
-
-[Linux Executable](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Bot-Hosting#linux-executable)
-
-[Windows Executable](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Bot-Hosting#windows-executable)
-
-[Raspberry Pi SSH](https://github.com/SoupyzInc/Discord.Net-Guide/wiki/Bot-Hosting#raspberry-pi-ssh)
-
--->
